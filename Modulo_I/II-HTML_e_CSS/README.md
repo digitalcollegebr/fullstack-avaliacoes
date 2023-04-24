@@ -15,8 +15,8 @@ Proposta de Plataforma:
 > Construção de uma Landing Page
 
 #### Resumo
-- Escolher um protótipo dentre as [opções aqui](/Modulo_I/iI-HTML_e_CSS/images);
-- Construtir o HTML e CSS a partir da análise do protótipo, apenas através da observação visual tentar identificar as tags que serão utilizadas e os estilos que deverão ser aplicados;
+- Escolher um protótipo dentre as [opções aqui](/Modulo_I/II-HTML_e_CSS/imagens);
+- Construir o HTML e CSS a partir da análise do protótipo, apenas através da observação visual tentar identificar as tags que serão utilizadas e os estilos que deverão ser aplicados;
 - O uso de bibliotecas adicionais é permitido (Bootstrap, Tailwind, Fonts, Icons, etc);
 - Tentar ao máximo entregar o design visual como está no protótipo;
 - Definir um prazo de entrega e forma de envio, poderá ser um google form ou enviar no discord;
